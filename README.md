@@ -1,4 +1,4 @@
-# Your First HTML Tag
+# IceBreakers Site Navigation HTML Lab
 
 ## Objectives
 
